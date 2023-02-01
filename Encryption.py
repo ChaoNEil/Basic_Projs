@@ -8,4 +8,4 @@ key = chars.copy()
 random.shuffle(key)
 
 print("chars: " , chars)
-print("chars:" , key)
+print("key:" , key)
