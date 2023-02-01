@@ -30,5 +30,4 @@ for letter in chipher_text:
     index = key.index(letter)
     text += chars[index]
 
-#print("Encrypted message: ", chipher_text)
 print("Decrypted message: ", text)
